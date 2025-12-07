@@ -147,12 +147,12 @@ function App() {
               </a>
             </div>
           </div>
-          <div
+          {/* <div
             data-iframe-width="150"
             data-iframe-height="270"
             data-share-badge-id="d00a00f2-2da0-4093-b103-a2361edf98df"
             data-share-badge-host="https://www.credly.com"
-          ></div>
+          ></div> */}
           <footer>
             <p>&copy; 2023 Sopuru Ani</p>
           </footer>
